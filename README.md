@@ -58,7 +58,7 @@ Furthermore, it was observed that this secondary_id_code changes every few minut
 
 Where can this be found? It cannot be conjured from nowhere - the original HTML file needs to be directed - and i the case of Oddsportal results pages, it is hidden within a script in that HTML.  
 
-Furthering the security of this, it is hashed. In this case, as "%79%6a%39%64%39". However, this can be unhashed easily enough. 
+Furthering the security of this, it is hashed. In this case, as "%79%6a%39%64%39". However, this can be unhashed easily enough - eg by using the unquote function in the the Python library urllib.parse. 
 
 As a result, any coder with Oddsportals match id codes and the patience to unpeel the layers of data security on their site can, quite easily, get access to the JSON data on the site's pages. 
 
