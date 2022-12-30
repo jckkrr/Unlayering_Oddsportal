@@ -82,3 +82,8 @@ By going to the overview page of the competition, and getting the codes for each
 What this research has demonstrated is how easily data from an unencrypted open-access web access can be downloaded, even when the owners of the site have put several hurdles in the way of this happening. Anybody publishing data on the web should be aware that if your computer can read the data, it can be scraped. 
 
 While this information may inform some coders who wish to access the data, it should be noted that this data is available from other sources via subscription APIs. 
+
+With this data, you can then analyse the odds for trends - such as games with ridiculous payouts. In this example, which shows almost 50,000 closing 1X2 odds for the NPL Victoria over more than a decade, the large red dots indicate the one game of the Southern Stars fixed season when they successfully played to win (after throwing all their other matches).
+
+![image](https://user-images.githubusercontent.com/69304112/210028577-5ee35039-377d-4fc3-a98f-1e93f2de15d5.png)
+
