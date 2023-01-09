@@ -3,7 +3,11 @@
 
 ------
 
+![image](https://user-images.githubusercontent.com/69304112/211270625-05967f73-dca8-4449-9eaa-fd9e332b8483.png)
+
 Oddsportal is a fantastic archive of sporting bets odds going back well over a decade, and its data was the basis for the BuzzFeed/BBC investigation into match-fixing in tennis. 
+
+Or visualisations like the one above - which shows more than a decade's worth of odds for top state league in Victoria, Australia. 
 
 There are, however, lots of obstacles in the way of those who would wish to scrape data from the site, and from a data-security perspective, there is much that other websites could learn. 
 
