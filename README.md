@@ -89,5 +89,4 @@ While this information may inform some coders who wish to access the data, it sh
 
 With this data, you can then analyse the odds for trends - such as games with ridiculous payouts. In this example, which shows almost 50,000 closing 1X2 odds for the NPL Victoria over more than a decade, the large red dots indicate the one game of the Southern Stars fixed season when they successfully played to win (after throwing all their other matches).
 
-![image](https://user-images.githubusercontent.com/69304112/210028577-5ee35039-377d-4fc3-a98f-1e93f2de15d5.png)
-
+![image](https://user-images.githubusercontent.com/69304112/211271098-c18c091d-8227-400e-9124-cb5126e72ed2.png)
